@@ -99,7 +99,6 @@ var group_description = "<Descrição do grupo>";
 #### Exemplos implementados
 
 * [Dependent](examples/dependent.js)
-* [Entidade](examples/entidade.ts)
 * [Payroll](examples/payroll.js)
 * [Recruitment](examples/recruitment.js)
 
